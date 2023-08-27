@@ -132,6 +132,9 @@ display: flex;
 .cm-lab{
   height: 174px;
 }
+.two{
+  display: none;
+}
 .footer-flex{
   display: grid;
   grid-template-columns: auto auto;
@@ -147,9 +150,7 @@ display: flex;
   .footer-flex{
   display: block;
 }
-.two{
-  display: none;
-}
+
 .d-block{
   height: 50vh;
   opacity: .7;
